@@ -1,0 +1,26 @@
+button{
+    background: transparent;
+    border: 1px solid aqua;
+    border-radius: 5cm;
+    padding: 10px;
+}
+
+.button1:hover{
+    background: blueviolet;
+    border: 1px solid blueviolet;
+    color: white;
+
+}
+
+.button2:hover{
+    background: yellow;
+    border: 1px solid yellow;
+    color: white;
+}
+
+.button2:active{
+    background: violet;
+    border: 1px solid violet;
+    color: white;
+}
+
